@@ -12,7 +12,7 @@
 | 나의 역할 | **검색(BM25 · 태그 · RRF) · 답변 생성 · 되묻기 · 질문 기록 · 근거 원문 · 기술 Q&A 화면 연결** |
 | 기술 | Python 3.11 · uv · OpenAI API · LangChain · ChromaDB · BM25 · RRF · PyMuPDF · MySQL · SQLAlchemy · Gradio |
 
-<img src="docs/images/qa-answer.png" width="820" alt="기술 Q&A 답변 화면" />
+<img src="../assets/qa-answer.png" width="820" alt="기술 Q&A 답변 화면" />
 
 ---
 
