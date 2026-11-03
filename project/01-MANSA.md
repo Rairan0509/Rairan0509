@@ -1,4 +1,4 @@
-<img src="assets/logo.svg" width="72" alt="MANSA 로고" />
+<img src="Rairan0509/assets/logo.svg" width="72" alt="MANSA 로고" />
 
 # MANSA · Manual & Safety Assistant
 
