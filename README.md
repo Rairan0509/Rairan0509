@@ -1,3 +1,5 @@
+<img src="assets/logo.svg" width="72" alt="MANSA 로고" />
+
 # 강병훈 PORTFOLIO
 
 자기소개
